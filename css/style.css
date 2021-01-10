@@ -1,0 +1,43 @@
+/*My first CSS*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgrey;    
+}
+
+
+h1{
+    font-family: 'Noto Sans JP', sans-serif;
+    border: 2px solid lightskyblue;
+    font-size:  50px;
+}
+
+nav{
+    border: 5px solid green;
+    font-style: bold;
+}
+
+.detaljer{
+    border: 5px solid lightpink;
+    font-style: italic;
+}
+
+.detaljer p{
+    color: magenta;
+}
+
+.color1{
+    background-color: #D93D66;
+}
+.color2{
+    background-color: #011826;
+}
+.color3{
+    background-color: #2D83A6;
+}
+.color4{
+    background-color: #BFA24B;
+}
+.color5{
+    background-color: #D99A4E;
+}
